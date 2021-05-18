@@ -20,15 +20,15 @@
 
  Au lancement de l'application, le plateau s'affiche avec une grille déjà mélangée.
 
-![images/img1](img1)
+![img1](/images/img1)
 
  Lorsqu'on effectue un mouvement impossible, une pop-up apparaitra indiquant que le mouvement n'est pas possible
 
- ![images/img2](img2)
+ ![img2](/images/img2)
 
  Lorsqu'on réussi le taquin une petit musique se lance pour montrer la réussite.
  Un pop-up apparait aussi indiquant qu'en ré-appuyant cela mélangera le grille une nouvelle fois.
 
- ![images/img3](img3)
+ ![img3](/images/img3)
  
  
